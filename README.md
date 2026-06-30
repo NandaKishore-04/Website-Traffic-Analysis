@@ -1,4 +1,4 @@
-# Website Traffic Analysis 
+# 📊 Website Traffic Analysis 
 
 ## 📌 Project Overview
 
@@ -115,15 +115,15 @@ The project demonstrates a complete data analytics workflow and helps businesses
 ```text
 Website-Traffic-Analysis/
 │
-├── 
-├── Images/
-├── Notebook/
-├── Reports/
-├── Website_Traffic_KPI_Summary.csv
+├── 📁 Images/
 ├── README.md
+├── Website Traffic KPI Summary.csv
+├── Website_Traffic_Analysis.ipynb
+├── cleaned website traffic dataset.csv
 ├── requirements.txt
-├── LICENSE
-└── .gitignore
+├── website traffic feature engineered.csv
+├── website_traffic_analysis.py
+└── traffic.csv
 ```
 
 ---
